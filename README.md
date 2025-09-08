@@ -9,6 +9,7 @@ Ownable, Pausable, Mintable, Burnable and UUPS Proxy features are included.
 | --------------- | ------------------------------------------ | ------------------------------------------ |
 | Polygon Mainnet | 0x435001Af7fC65B621B0043df99810B2f30860c5d | 0x59e17bf8eecbaab7db37e8fab1d68ecaeb39f3d1 |
 | Polygon Testnet | 0x8Ec17bf427556c3972540aAc01adb6367E32d5D3 | 0x4d92c007eaeb31bc88dcbb2e034d80caf901157f |
+| BSC Mainnet     | 0xb455c70beb080ab536657d62402ee7463b9de497 |                                            |
 
 ## Pre Required
 
